@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cómo ls videojuegos pueden ayudar a tu mente
+title: Cómo los videojuegos pueden ayudar a tu mente
 subtitle: La salud mental es un tema sumamente interesante y su relación con los videojuegos lo es más
 ---
 Antes los videojuegos eran bastante sencillos por decirlo de alguna manera en la gran mayoría de los casos tu objetivo era vencer a los malos tal vez rescatar a una princesa o conseguir la mayor puntuación pero fuera de eso la exploración de temáticas más profundas era sumamente rara la psicología las emociones o la salud mental prácticamente no tenían un lugar en el medio y eso no era necesariamente algo malo porque después de todo el objetivo de los videojuegos en ese momento era
