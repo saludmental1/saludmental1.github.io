@@ -9,6 +9,8 @@ En el mundo actual, los videojuegos han dejado de ser simplemente una forma de e
 
 Los videojuegos no solo entretienen, sino que también estimulan el pensamiento crítico y la resolución de problemas. Según un estudio publicado en la revista "Psychology of Popular Media Culture," los videojuegos que presentan desafíos cognitivos complejos pueden mejorar la capacidad de los jugadores para resolver problemas de manera más eficiente y creativa.
 
+![Desafío Mental y Resolución de Problemas](/assets/img/1.jpg)
+
 ## 2. Mejora de la Concentración y la Atención:
 
 Un estudio realizado por la Universidad de Rochester encontró que los videojuegos de acción pueden mejorar la atención visual y la concentración. Los jugadores de videojuegos, especialmente los que participan en juegos que requieren una alta carga cognitiva, desarrollan una mayor capacidad para mantener su enfoque en tareas específicas.
