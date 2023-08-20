@@ -47,7 +47,7 @@ Los videojuegos con tramas elaboradas y mundos imaginativos pueden estimular la 
 
 ![Creatividad y Narrativa](/assets/img/7.jpg)
 
-  ## 8. Desarrollo de Habilidades Motoras:
+## 8. Desarrollo de Habilidades Motoras:
 
 La coordinación mano-ojo y las habilidades motoras finas se fortalecen al interactuar con los videojuegos. Un informe de la Entertainment Software Association menciona que los juegos de acción pueden mejorar las habilidades motoras y la percepción visual.
 
