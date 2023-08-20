@@ -15,29 +15,43 @@ Los videojuegos no solo entretienen, sino que también estimulan el pensamiento 
 
 Un estudio realizado por la Universidad de Rochester encontró que los videojuegos de acción pueden mejorar la atención visual y la concentración. Los jugadores de videojuegos, especialmente los que participan en juegos que requieren una alta carga cognitiva, desarrollan una mayor capacidad para mantener su enfoque en tareas específicas.
 
+![Mejora de la Concentración y la Atención](/assets/img/2.jpg)
+
 ## 3. Entrenamiento de la Memoria:
 
 Los videojuegos que presentan elementos de memorización, como mapas y secuencias, pueden tener un impacto positivo en la memoria. Un estudio publicado en la revista "Nature" descubrió que los videojuegos de acción pueden aumentar la materia gris en el hipocampo, una región cerebral asociada con la memoria espacial.
+
+![Entrenamiento de la Memoria](/assets/img/3.jpg)
 
 ## 4. Habilidades Sociales y Colaborativas:
 
 La dimensión social de los videojuegos en línea puede fortalecer las habilidades sociales y la cooperación. Un informe de la Asociación de Software de Entretenimiento (ESA) encontró que el 65% de los jugadores juegan con amigos o familiares, lo que fomenta la comunicación y el trabajo en equipo.
 
+![Habilidades Sociales y Colaborativas](/assets/img/4.jpg)
+
 ## 5. Gestión del Estrés y la Ansiedad:
 
 Los videojuegos pueden servir como una vía de escape temporal del estrés cotidiano. Según un estudio publicado en "Cyberpsychology, Behavior, and Social Networking," jugar videojuegos puede proporcionar una distracción efectiva y un alivio temporal del estrés.
+
+![Gestión del Estrés y la Ansiedad](/assets/img/5.jpg)
 
 ## 6. Autoestima y Logros Personales:
 
 La sensación de logro en los videojuegos puede impactar positivamente la autoestima. Un artículo en "American Psychologist" afirma que los logros en los videojuegos pueden generar sentimientos de competencia y autoeficacia, que luego se pueden transferir a otras áreas de la vida.
 
+![Autoestima y Logros Personales](/assets/img/6.jpg)
+
 ## 7. Creatividad y Narrativa:
 
 Los videojuegos con tramas elaboradas y mundos imaginativos pueden estimular la creatividad. Según un estudio en "Creativity Research Journal," los videojuegos pueden inspirar nuevas formas de pensamiento creativo y narrativo.
 
-## 8. Desarrollo de Habilidades Motoras:
+![Creatividad y Narrativa](/assets/img/7.jpg)
+
+  ## 8. Desarrollo de Habilidades Motoras:
 
 La coordinación mano-ojo y las habilidades motoras finas se fortalecen al interactuar con los videojuegos. Un informe de la Entertainment Software Association menciona que los juegos de acción pueden mejorar las habilidades motoras y la percepción visual.
+
+![Desarrollo de Habilidades Motoras](/assets/img/8.jpg)
 
 ## Conclusión:
 
