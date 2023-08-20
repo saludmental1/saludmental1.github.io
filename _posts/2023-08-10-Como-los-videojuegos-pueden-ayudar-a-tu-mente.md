@@ -1,9 +1,42 @@
 ---
 layout: post
 title: Cómo los videojuegos pueden ayudar a tu mente
-subtitle: La salud mental es un tema sumamente interesante y su relación con los videojuegos lo es más
+subtitle: Explorando sus Beneficios Cognitivos y Emocionales
 ---
-Antes los videojuegos eran bastante sencillos por decirlo de alguna manera en la gran mayoría de los casos tu objetivo era vencer a los malos tal vez rescatar a una princesa o conseguir la mayor puntuación pero fuera de eso la exploración de temáticas más profundas era sumamente rara la psicología las emociones o la salud mental prácticamente no tenían un lugar en el medio y eso no era necesariamente algo malo porque después de todo el objetivo de los videojuegos en ese momento era
-muy distinto al de ahora pero en la época actual las cosas han cambiado bastante el mundo es diferente y la salud mental es vista desde una perspectiva totalmente nueva mientras que antes era prácticamente un tabú hablar sobre padecimientos mentales ahora estás temática se han convertido en algo que nos afecta a todos y más
-importante en algo de lo que ya no estan difícil de hablar los videojuegos modernos específicamente los indies han hecho un increíble trabajo al utilizar la salud mental y las narrativas emocionales para expandir sus mundos y tal vez la relación entre ambos aspectos nunca había sido tan relevante como en estos momentos ahora es normal ver juegos cuyo único propósito es hacerte sentir bien o reflexionar hacerte pensar sobre cosas que tal vez ignoradas o simplemente darte un mensaje importante incluso es normal ver que la narrativa o las temáticas son puestas por sobre el arte o la jugabilidad con el tremendo avance que los estudios independientes han tenido en los últimos años los juegos se han convertido en un medio para contar historias profundas historias que son altamente personales y
-que más importante exploran temáticas con las que todos podemos relacionarnos es curioso pero los juegos se han convertido en algo más que solo juegos y hoy exploraremos cómo muchos títulos modernos utilizan esto no sólo para crear narrativas más interesantes sino para expandir el medio y los lugares a los que puede llegar y sobre todo para ayudar a las personas cuando hablamos de salud mental en videojuegos la forma en la que esta es abordada puede variar bastante hasta hace algunos años las enfermedades mentales utilizadas como una fuente de violencia o maldad e incluso hasta el día de hoy éste sigue siendo el caso en incontables ocasiones
+En el mundo actual, los videojuegos han dejado de ser simplemente una forma de entretenimiento para convertirse en un medio que puede influir en diversos aspectos de nuestras vidas. Si bien existen preocupaciones legítimas sobre el tiempo que se dedica a los videojuegos, también es importante reconocer que, cuando se juegan de manera equilibrada y consciente, pueden tener beneficios sorprendentes para la mente y el bienestar emocional.
+
+## 1. Desafío Mental y Resolución de Problemas:
+
+Los videojuegos no solo entretienen, sino que también estimulan el pensamiento crítico y la resolución de problemas. Según un estudio publicado en la revista "Psychology of Popular Media Culture," los videojuegos que presentan desafíos cognitivos complejos pueden mejorar la capacidad de los jugadores para resolver problemas de manera más eficiente y creativa.
+
+## 2. Mejora de la Concentración y la Atención:
+
+Un estudio realizado por la Universidad de Rochester encontró que los videojuegos de acción pueden mejorar la atención visual y la concentración. Los jugadores de videojuegos, especialmente los que participan en juegos que requieren una alta carga cognitiva, desarrollan una mayor capacidad para mantener su enfoque en tareas específicas.
+
+## 3. Entrenamiento de la Memoria:
+
+Los videojuegos que presentan elementos de memorización, como mapas y secuencias, pueden tener un impacto positivo en la memoria. Un estudio publicado en la revista "Nature" descubrió que los videojuegos de acción pueden aumentar la materia gris en el hipocampo, una región cerebral asociada con la memoria espacial.
+
+## 4. Habilidades Sociales y Colaborativas:
+
+La dimensión social de los videojuegos en línea puede fortalecer las habilidades sociales y la cooperación. Un informe de la Asociación de Software de Entretenimiento (ESA) encontró que el 65% de los jugadores juegan con amigos o familiares, lo que fomenta la comunicación y el trabajo en equipo.
+
+## 5. Gestión del Estrés y la Ansiedad:
+
+Los videojuegos pueden servir como una vía de escape temporal del estrés cotidiano. Según un estudio publicado en "Cyberpsychology, Behavior, and Social Networking," jugar videojuegos puede proporcionar una distracción efectiva y un alivio temporal del estrés.
+
+## 6. Autoestima y Logros Personales:
+
+La sensación de logro en los videojuegos puede impactar positivamente la autoestima. Un artículo en "American Psychologist" afirma que los logros en los videojuegos pueden generar sentimientos de competencia y autoeficacia, que luego se pueden transferir a otras áreas de la vida.
+
+## 7. Creatividad y Narrativa:
+
+Los videojuegos con tramas elaboradas y mundos imaginativos pueden estimular la creatividad. Según un estudio en "Creativity Research Journal," los videojuegos pueden inspirar nuevas formas de pensamiento creativo y narrativo.
+
+## 8. Desarrollo de Habilidades Motoras:
+
+La coordinación mano-ojo y las habilidades motoras finas se fortalecen al interactuar con los videojuegos. Un informe de la Entertainment Software Association menciona que los juegos de acción pueden mejorar las habilidades motoras y la percepción visual.
+
+## Conclusión:
+
+Los videojuegos, cuando se juegan con moderación y enfoque, pueden tener una serie de beneficios para la mente y el bienestar emocional. Estos beneficios no solo se basan en la experiencia personal, sino que también están respaldados por investigaciones y estudios. Al aprovechar los aspectos positivos de los videojuegos y mantener un equilibrio con otras actividades, es posible disfrutar de sus beneficios cognitivos y emocionales mientras se promueve una vida saludable y equilibrada.
