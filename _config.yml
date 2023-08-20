@@ -20,8 +20,8 @@ author: Oscar
 ###############################################
 
 navbar-links:
-  About Us: "aboutus"
-  Resources:
+  Sobre nosotros: "aboutus"
+  Recursos:
     - Tetris: "https://chvin.github.io/react-tetris/?lan=en"
     - FALTA
 
