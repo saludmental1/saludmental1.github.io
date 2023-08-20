@@ -51,7 +51,6 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: false
   rss: false  # remove this line if you don't want to show an RSS link at the bottom
   github: saludmental1
 #  medium: yourname
@@ -125,10 +124,10 @@ navbar-var-length: false
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
+navbar-text-col: "#18191a"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
-text-col: "#404040"
+text-col: "#e4e6eb"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#EAEAEA"
