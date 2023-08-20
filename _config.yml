@@ -23,7 +23,9 @@ navbar-links:
   Sobre nosotros: "aboutus"
   Recursos:
     - Tetris: "https://chvin.github.io/react-tetris/?lan=en"
-    - FALTA
+    - Ajedrez: "https://www.chess.com/es"
+    - Como los Videojuegos pueden Ayudar a tu Mente: "https://youtu.be/ccIfRe5QF_4"
+    - Centros de salud mental: "https://www.gob.pe/10942-conocer-los-centros-de-salud-mental-comunitaria-en-el-peru"
 
 ################
 # --- Logo --- #
